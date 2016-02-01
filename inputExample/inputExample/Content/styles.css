@@ -1,0 +1,33 @@
+﻿
+#div1 {
+border: 10px;
+padding: 25px;
+margin: 15px;
+background-color: yellow;
+border-style: solid;
+border-color: green;
+width: 200px;
+}
+
+#div2 {
+border: 10px;
+padding: 25px;
+margin: 15px;
+background-color: yellow;
+border-style: solid;
+border-color: red;
+width: 200px;
+}
+
+
+input {
+    position: absolute;
+    left: 200px;
+   /*border: 3px solid #73AD21;*/
+}
+
+
+button {
+    position: absolute;
+    left: 200px;
+}
